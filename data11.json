@@ -1,0 +1,248 @@
+[{
+        "ID": 1,
+        "PMID": 23727893,
+        "Category": "GEMT",
+        "Species": "Human",
+        "Chain_num": "TRA:0;TRB:237",
+        "dataSource": "Rhijn, I Van , et al. \"A conserved human T cell population targets mycobacterial antigens presented by CD1b.\"(2013)"
+    }, {
+        "ID": 2,
+        "PMID": 25049336,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:14;TRB:14",
+        "dataSource": "Eckle, Sidonia B G , et al. \"A molecular basis underpinning the T cell receptor heterogeneity of mucosal-associated invariant T cells.\"(2014)"
+    }, {
+        "ID": 3,
+        "PMID": 29343684,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:0;TRB:10469",
+        "dataSource": "Howson, Lauren J., et al. \"MAIT cell clonal expansion and TCR repertoire shaping in human volunteers challenged with Salmonella Paratyphi A.\"(2018)"
+    }, {
+        "ID": 4,
+        "PMID": 30838000,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:546;TRB:667",
+        "dataSource": "Lee, O. J. , et al. \"Circulating mucosal-associated invariant T cell levels and their cytokine levels in healthy adults - ScienceDirect.\"(2014)"
+    }, {
+        "ID": 5,
+        "PMID": 33205061,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:219;TRB:200",
+        "dataSource": "Huang, W. C. , et al. \"Less circulating mucosal-associated invariant T cells in patients with cervical cancer.\"(2019)"
+    }, {
+        "ID": 6,
+        "PMID": 0,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:45;TRB:42",
+        "dataSource": "Sulliman_2021"
+    }, {
+        "ID": 7,
+        "PMID": 29618662,
+        "Category": "MAIT",
+        "Species": "Human",
+        "Chain_num": "TRA:0;TRB:1104",
+        "dataSource": "Voillet, Valentin, et al. \"Human MAIT cells exit peripheral tissues and recirculate via lymph in steady state conditions.\"(2018)."
+    }, {
+        "ID": 8,
+        "PMID": 26423148,
+        "Category": "iNKT",
+        "Species": "Human",
+        "Chain_num": "TRA:23;TRB:23",
+        "dataSource": "Cameron, Garth, et al. \"Antigen specificity of type I NKT cells is governed by TCR β-chain diversity.\"(2015)"
+    }, {
+        "ID": 9,
+        "PMID": 31484667,
+        "Category": "iNKT",
+        "Species": "Human",
+        "Chain_num": "TRA:190;TRB:189",
+        "dataSource": "Xu, Xin, et al. \"NKT cells coexpressing a GD2-specific chimeric antigen receptor and IL15 show enhanced in vivo persistence and antitumor activity against neuroblastoma.\"(2019)"
+    }, {
+        "ID": 10,
+        "PMID": 26875526,
+        "Category": "iNKT",
+        "Species": "Human",
+        "Chain_num": "TRA:36;TRB:36",
+        "dataSource": "Le Nours, Jerme, et al. \"Atypical natural killer T-cell receptor recognition of CD1d-lipid antigens.\"(2016)"
+    }, {
+        "ID": 11,
+        "PMID": 20585371,
+        "Category": "iNKT",
+        "Species": "Human",
+        "Chain_num": "TRA:0;TRB:7",
+        "dataSource": "Matulis, Gediminas, et al. \"Innate-like control of human iNKT cell autoreactivity via the hypervariable CDR3β loop.\"(2010)"
+    }, {
+        "ID": 12,
+        "PMID": 31885619,
+        "Category": "TCRG",
+        "Species": "Human",
+        "Chain_num": "TRG:5403",
+        "dataSource": "Gaballa, A. , et al. \"CD8+γδ T Cells Are More Frequent in CMV Seropositive Bone Marrow Grafts and Display Phenotype of an Adaptive Immune Response.\"(2019)"
+    }, {
+        "ID": 13,
+        "PMID": 0,
+        "Category": "TCRG",
+        "Species": "Human",
+        "Chain_num": "TRG:68710",
+        "dataSource": "Crossley, B., et al. \"Characterization of T Cell Receptor Gene (TR) Repertoires Reveals Enrichment of Stereotyped TR Gamma Sequences in Celiac Disease.\"(2021)"
+    }, {
+        "ID": 14,
+        "PMID": 26594339,
+        "Category": "TCRG",
+        "Species": "Human",
+        "Chain_num": "TRG:1434",
+        "dataSource": "Harden, J. L. , et al. \"Deep Sequencing of the T-cell Receptor Repertoire Demonstrates Polyclonal T-cell Infiltrates in Psoriasis.\"(2015)"
+    }, {
+        "ID": 15,
+        "PMID": 35212005,
+        "Category": "TCRG",
+        "Species": "Human",
+        "Chain_num": "TRG:3397",
+        "dataSource": "Arruda, Lucas C M et al. \"SARS-CoV-2 (COVID-19)-specific T cell and B cell responses in convalescent rheumatoid arthritis: Monozygotic twins pair case observation.\"(2022)"
+    }, {
+        "ID": 16,
+        "PMID": 0,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:13948",
+        "dataSource": "Charlotte, A., et al. \"Durable Expansion of TCR-δ Meta-Clonotypes After BCG Revaccination in Humans\"(2022)"
+    }, {
+        "ID": 17,
+        "PMID": 33876203,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:8338",
+        "dataSource": "Delmonte, O. M. , et al. \"SASH3 variants cause a novel form of X-linked combined immunodeficiency with immune dysregulation.\" (2021)"
+    }, {
+        "ID": 18,
+        "PMID": 34214472,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:1103",
+        "dataSource": "V Beziat, et al. \"Humans with inherited T cell CD28 deficiency are susceptible to skin papillomaviruses but are otherwise healthy.\"(2021)"
+    }, {
+        "ID": 19,
+        "PMID": 33652347,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:281269 ",
+        "dataSource": "N Heikkil, et al. \"Generation of self-reactive, shared T-cell receptor α chains in the human thymus.\"(2021)"
+    }, {
+        "ID": 20,
+        "PMID": 31763997,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:138547 ",
+        "dataSource": "Ogongo, Paul , et al. \"Differential skewing of donor-unrestricted and γδT cell repertoires in tuberculosis-infected human lungs.\"(2019)"
+    }, {
+        "ID": 21,
+        "PMID": 30792246,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:150",
+        "dataSource": "Delmas, J. , et al. \"T cell clonal expansions in ileal Crohn's disease are associated with smoking behaviour and postoperative recurrence.\"(2019)"
+    }, {
+        "ID": 22,
+        "PMID": 32184241,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:56",
+        "dataSource": "Anna, Gil , et al. \"Epstein-Barr Virus Epitope-Major Histocompatibility Complex Interaction Combined with Convergent Recombination Drives Selection of Diverse T Cell Receptor α and β Repertoires.\"(2021)"
+    }, {
+        "ID": 23,
+        "PMID": 32961421,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:233045",
+        "dataSource": "Heikkil, N. , et al. \"Human thymic T cell repertoire is imprinted with strong convergence to shared sequences.\"(2020)"
+    }, {
+        "ID": 24,
+        "PMID": 30185651,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:109239",
+        "dataSource": "Emmanuel, C. , et al. \"Human thymopoiesis is influenced by a common genetic variant within the TCRA-TCRD locus.\"(2018)"
+    }, {
+        "ID": 25,
+        "PMID": 29914888,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:60202",
+        "dataSource": "Dewitt, William S. , et al. \"A Diverse Lipid Antigen-Specific TCR Repertoire Is Clonally Expanded during Active Tuberculosis.\"(2018)"
+    }, {
+        "ID": 26,
+        "PMID": 28835417,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:71621",
+        "dataSource": "Chen, X. ,  L. Poncette , and  T. Blankenstein . \"Human TCR-MHC coevolution after divergence from mice includes increased nontemplate-encoded CDR3 diversity.\"(2017)"
+    }, {
+        "ID": 27,
+        "PMID": 28250417,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:153",
+        "dataSource": "Song, I. Y. , et al. \"Broad TCR repertoire and diverse structural solutions for recognition of an immunodominant CD8+ T cell epitope.\"(2017)"
+    }, {
+        "ID": 28,
+        "PMID": 27213183,
+        "Category": "TRD",
+        "Species": "Human",
+        "Chain_num": "TRD:2524",
+        "dataSource": "Kanakry, C. G. , et al. \"Origin and evolution of the T cell repertoire after posttransplantation cyclophosphamide.\"(2016)"
+    }, {
+        "ID": 29,
+        "PMID": 31113973,
+        "Category": "MAIT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:147;TRB:120",
+        "dataSource": "Koay, H. F. , et al. \"Diverse MR1-restricted T cells in mice and humans.\"(2019)"
+    }, {
+        "ID": 30,
+        "PMID": 32868763,
+        "Category": "MAIT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:1760;TRB:1760",
+        "dataSource": "Lee, M. , et al. \"Single-cell RNA sequencing identifies shared differentiation paths of mouse thymic innate T cells.\"(2020) "
+    }, {
+        "ID": 31,
+        "PMID": 31748533,
+        "Category": "iNKT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:35;TRB:35",
+        "dataSource": "Almeida, C. F. , et al. \"Distinct CD1d docking strategies exhibited by diverse Type II NKT cell receptors.\"(2019) "
+    }, {
+        "ID": 32,
+        "PMID": 26423148,
+        "Category": "iNKT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:0;TRB:495",
+        "dataSource": "Cameron, Garth, et al. \"Antigen specificity of type I NKT cells is governed by TCR β-chain diversity.\"(2015)"
+    }, {
+        "ID": 33,
+        "PMID": 27799307,
+        "Category": "iNKT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:0;TRB:29",
+        "dataSource": "Selvanantham, Thirumahal, et al. \"NKT Cell-Deficient Mice Harbor an Altered Microbiota That Fuels Intestinal Inflammation during Chemically Induced Colitis.\"(2016)"
+    }, {
+        "ID": 34,
+        "PMID": 32868763,
+        "Category": "iNKT",
+        "Species": "Mouse",
+        "Chain_num": "TRA:1898;TRB:1898",
+        "dataSource": "Lee, Minji, et al. \"Single-cell RNA sequencing identifies shared differentiation paths of mouse thymic innate T cells.\"(2020)"
+    }, {
+        "ID": 35,
+        "PMID": 33777010,
+        "Category": "MAIT",
+        "Species": "Cattle",
+        "Chain_num": "TRA:799;TRB:2199",
+        "dataSource": "MD Edmans, et al. \"Identification and phenotype of MAIT cells in cattle and their response to bacterial infections.\"(2020)"
+    }
+
+]
